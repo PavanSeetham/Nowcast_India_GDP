@@ -11,4 +11,6 @@ The data for this project has been collected from various sources. The data fold
 
 The notebook 'dfm_india.ipynb' contains the main analsysis. It contains quick explanations along with code.
 
+The pdf file 'Nowcasting_Summary_results.pdf' conatins a quick summary of the results of the emperical excercise. 
+
 The pdf file 'Nowcasting.pdf' contains a presentation reviewing the paper by Bhadury et. al
